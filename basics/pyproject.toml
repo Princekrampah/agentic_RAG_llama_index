@@ -11,6 +11,7 @@ llama-index = "^0.10.36"
 python-dotenv = "^1.0.1"
 nest-asyncio = "^1.6.0"
 ipykernel = "^6.29.4"
+wget = "^3.2"
 
 
 [tool.poetry.group.dev.dependencies]
